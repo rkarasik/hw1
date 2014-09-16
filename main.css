@@ -1,0 +1,11 @@
+#poncho {
+	display: inline;
+}
+
+#poncho img {
+/*	width: 150px;
+	height: 150px;*/
+	border: solid;
+	border-color: black;
+	border-width: 5px;
+}
